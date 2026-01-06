@@ -1,0 +1,14 @@
+C:\Users\Mariv\OneDrive\Escritorio\C#\bin\Debug\net8.0-windows\C#.exe
+C:\Users\Mariv\OneDrive\Escritorio\C#\bin\Debug\net8.0-windows\C#.deps.json
+C:\Users\Mariv\OneDrive\Escritorio\C#\bin\Debug\net8.0-windows\C#.runtimeconfig.json
+C:\Users\Mariv\OneDrive\Escritorio\C#\bin\Debug\net8.0-windows\C#.dll
+C:\Users\Mariv\OneDrive\Escritorio\C#\bin\Debug\net8.0-windows\C#.pdb
+C:\Users\Mariv\OneDrive\Escritorio\C#\obj\Debug\net8.0-windows\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariv\OneDrive\Escritorio\C#\obj\Debug\net8.0-windows\C#.AssemblyInfoInputs.cache
+C:\Users\Mariv\OneDrive\Escritorio\C#\obj\Debug\net8.0-windows\C#.AssemblyInfo.cs
+C:\Users\Mariv\OneDrive\Escritorio\C#\obj\Debug\net8.0-windows\C#.csproj.CoreCompileInputs.cache
+C:\Users\Mariv\OneDrive\Escritorio\C#\obj\Debug\net8.0-windows\C#.dll
+C:\Users\Mariv\OneDrive\Escritorio\C#\obj\Debug\net8.0-windows\refint\C#.dll
+C:\Users\Mariv\OneDrive\Escritorio\C#\obj\Debug\net8.0-windows\C#.pdb
+C:\Users\Mariv\OneDrive\Escritorio\C#\obj\Debug\net8.0-windows\C#.genruntimeconfig.cache
+C:\Users\Mariv\OneDrive\Escritorio\C#\obj\Debug\net8.0-windows\ref\C#.dll
